@@ -8,6 +8,8 @@
 
 import UIKit
 
+
+// UIApplicationMain designates the AppDelegate class as the entry point for the module
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
