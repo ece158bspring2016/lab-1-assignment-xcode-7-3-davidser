@@ -130,7 +130,7 @@
         <scene sceneID="GdR-We-T4q">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="HfU-Ls-6gG" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Pitchers" image="Players.png" id="Dj2-u0-XwA"/>
+                    <tabBarItem key="tabBarItem" title="Pitchers" image="Baseball_Picol_icon.svg (1).png" id="Dj2-u0-XwA"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="MP3-zB-0r2">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -147,7 +147,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Baseball_Picol_icon.svg (1).png" width="32" height="32"/>
         <image name="Gestures.png" width="30" height="30"/>
-        <image name="Players.png" width="30" height="30"/>
     </resources>
 </document>

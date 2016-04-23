@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		EC7206F21CCB469900488FA6 /* PlayerCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7206F11CCB469900488FA6 /* PlayerCellTableViewCell.swift */; };
+		EC7206F41CCB4DE500488FA6 /* baseball.png in Resources */ = {isa = PBXBuildFile; fileRef = EC7206F31CCB4DE500488FA6 /* baseball.png */; };
+		EC7206F61CCB4EF600488FA6 /* Baseball_Picol_icon.svg (1).png in Resources */ = {isa = PBXBuildFile; fileRef = EC7206F51CCB4EF600488FA6 /* Baseball_Picol_icon.svg (1).png */; };
 		EC99E1A51CC43B5400C4618A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC99E1A41CC43B5400C4618A /* AppDelegate.swift */; };
 		EC99E1A71CC43B5400C4618A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC99E1A61CC43B5400C4618A /* ViewController.swift */; };
 		EC99E1AA1CC43B5400C4618A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC99E1A81CC43B5400C4618A /* Main.storyboard */; };
@@ -41,6 +43,8 @@
 
 /* Begin PBXFileReference section */
 		EC7206F11CCB469900488FA6 /* PlayerCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerCellTableViewCell.swift; sourceTree = "<group>"; };
+		EC7206F31CCB4DE500488FA6 /* baseball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = baseball.png; path = Assets.xcassets/Images/baseball.png; sourceTree = "<group>"; };
+		EC7206F51CCB4EF600488FA6 /* Baseball_Picol_icon.svg (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Baseball_Picol_icon.svg (1).png"; path = "Assets.xcassets/Images/Baseball_Picol_icon.svg (1).png"; sourceTree = "<group>"; };
 		EC99E1A11CC43B5300C4618A /* Ratings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ratings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC99E1A41CC43B5400C4618A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC99E1A61CC43B5400C4618A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -112,6 +116,8 @@
 				EC99E23A1CC59D5300C4618A /* SampleData.swift */,
 				EC99E2361CC5983100C4618A /* PlayersViewController.swift */,
 				EC99E1AB1CC43B5400C4618A /* Assets.xcassets */,
+				EC7206F51CCB4EF600488FA6 /* Baseball_Picol_icon.svg (1).png */,
+				EC7206F31CCB4DE500488FA6 /* baseball.png */,
 				EC99E20C1CC585DD00C4618A /* 1Stars.png */,
 				EC99E20D1CC585DD00C4618A /* 1Stars@2x.png */,
 				EC99E20E1CC585DD00C4618A /* 1Stars@3x.png */,
@@ -198,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC99E2261CC585DD00C4618A /* 2Stars@3x.png in Resources */,
+				EC7206F41CCB4DE500488FA6 /* baseball.png in Resources */,
 				EC99E22F1CC585DD00C4618A /* 5Stars@3x.png in Resources */,
 				EC99E2301CC585DD00C4618A /* Gestures.png in Resources */,
 				EC99E22E1CC585DD00C4618A /* 5Stars@2x.png in Resources */,
@@ -208,6 +215,7 @@
 				EC99E2241CC585DD00C4618A /* 2Stars.png in Resources */,
 				EC99E1AF1CC43B5400C4618A /* LaunchScreen.storyboard in Resources */,
 				EC99E2271CC585DD00C4618A /* 3Stars.png in Resources */,
+				EC7206F61CCB4EF600488FA6 /* Baseball_Picol_icon.svg (1).png in Resources */,
 				EC99E2341CC585DD00C4618A /* Players@2x.png in Resources */,
 				EC99E1AC1CC43B5400C4618A /* Assets.xcassets in Resources */,
 				EC99E22B1CC585DD00C4618A /* 4Stars@2x.png in Resources */,
